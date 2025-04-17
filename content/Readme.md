@@ -1,16 +1,6 @@
----
-title: Welcome to Polycentric
----
+# Welcome to Polycentric
 
-# Welcome to Extitutional Space
-
-### Extitutional Knowledge Commons
-
-Goals of this space:
-
-1. Build Knowledge Commons
-2. Build Extitutions
-3. Network Extitutions
+### A role-playing game of agreements
 
 ## How to Contribute
 
