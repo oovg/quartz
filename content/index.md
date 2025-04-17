@@ -1,5 +1,8 @@
 ---
-title: Welcome to Polycentric
+title: index
+draft: false
+tags:
+  - example-tag
 ---
 
 # Welcome to Extitutional Space
@@ -19,17 +22,18 @@ The knowledge commons is built on simple [markdown](https://www.markdownguide.or
 ## Get Started
 
 1. Download [Obsidian](https://obsidian.md/download)
-
+   
    Obsidian provides a nice UI for authoring Markdown content.
+
 
 2. Clone and setup the repo https://github.com/oovg/quartz
 
-````
+```
 ``` git clone https://github.com/oovg/quartz
 ``` cd quartz
 ``` yarn
 ``` yarn quartz build --serve
-````
+```
 
 3. Open the /content folder as a vault in Obsidian
    Create and Edit content with files and folders within Obsidian
@@ -54,7 +58,7 @@ tags: glossary, article, etc
 Example simple glossary entry valid full Markdown file with metadata and content.
 
 ```
----
+--- 
 title: term
 draft: false
 tags: glossary
@@ -66,7 +70,6 @@ definition of the term
 ```
 
 #### Markdown Cheatsheet
-
 View a cheat sheet of Markdown formatting.
 https://www.markdownguide.org/cheat-sheet/
 
@@ -78,3 +81,4 @@ For now we simply have a Glossary and a Reading Room sections for content.
 **Reading Room:** Add markdown versions of relevant articles, papers, and essays in the "Reading Room" folder to add content here
 
 Feel free to propose new sections of content.
+
